@@ -1,0 +1,78 @@
+    1  root su
+    2  sudo
+    3  sudo apt install gcc
+    4  SU root
+    5  su root
+    6  pwd
+    7  cd ~
+    8  cd Desktop/
+    9  ls -latr
+   10  mkdir cs149
+   11  cd cs149
+   12  git innit
+   13  apt install git
+   14  su root
+   15  git status
+   16  git init
+   17  git remote add origin https://github.com/hfcphoenix/cs149.git
+   18  git config --global user.email "phoenix.henry@gmail.com"
+   19  git config --global user.name "hfcphoenix"
+   20  ls
+   21  cd Desktop
+   22  ls
+   23  cd cs149
+   24  ls
+   25  git init
+   26  su root
+   27  Stop8com!
+   28  su root
+   29  cd ~
+   30  cd Desktop/
+   31  ls-latr
+   32  ls -latr
+   33  mkdir ws2
+   34  cd ws2
+   35  ls -latr
+   36  echo $?
+   37  man ps
+   38  ps aux
+   39  top
+   40  man top
+   41  top -o mem
+   42  top mem
+   43  top cpu
+   44  top %MEM
+   45  top MEM
+   46  topMEM
+   47  top%CPI
+   48  top%CPU
+   49  history
+   50  history > worksheet2.log
+   51  ls
+   52  head worksheet2.log 
+   53  tail worksheet2.log 
+   54  cat worksheet2.log 
+   55  git add .
+   56  git commit
+   57  git push
+   58  git push -u origin main
+   59  git push --set-upstream origin master
+   60  git checkout main
+   61  git branch
+   62  cd ./
+   63  git branch
+   64  cd ./
+   65  ls
+   66  cd .
+   67  ls
+   68  cd ~.
+   69  cd ~
+   70  ls
+   71  cd Desktop
+   72  ls
+   73  cd cs149
+   74  mkdir ws2
+   75  ls
+   76  cd ws2
+   77  ls
+   78  history > worksheet2.log
